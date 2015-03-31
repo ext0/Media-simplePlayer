@@ -21,7 +21,7 @@ import javafx.scene.media.MediaPlayer;
 import javafx.scene.media.MediaPlayer.Status;
 
 public class Main implements Runnable{
-	public static File musicPath=new File("C:\\Users\\Titanic\\Music");
+	public static File musicPath=new File("C:\\Users\\"+System.getProperty("user.name")+"\\Music");
 	static Terminal terminal = TerminalFacade.createSwingTerminal();
 	static Screen screen = new Screen(terminal);
 	static ArrayList<MediaPlayer>songs=new ArrayList<MediaPlayer>();
