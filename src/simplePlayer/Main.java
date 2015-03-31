@@ -520,7 +520,8 @@ public class Main implements Runnable{
 		terminal.applyForegroundColor(Color.WHITE);
 		writeString("                 |_|                          |___/           ");    nextLine(x);
 		if (credit){
-			writeString("                    Created by Patrick Bell          "); 	      nextLine(x);
+			writeString("                    Created by Patrick Bell          "); 	      nextLine(x); nextLine(x);
+			writeString("          <https://github.com/ext0/Media-simplePlayer>"); 			  nextLine(x);
 		}
 		terminal.applyForegroundColor(Color.DEFAULT);
 		
