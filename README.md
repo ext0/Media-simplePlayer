@@ -10,13 +10,21 @@ for your own formats!
 Controls:
 
 SPACE: pause song
+
 ARROW KEYS: modify menu
+
 , : lower volume
+
 . : increase volume
+
 < : decrease speed
+
 > : increase speed
-\[ : adjust balance to left ear
+
+\[" : adjust balance to left ear
+
 \] : adjust balance to right ear
+
 s : toggle shuffle
 
 ![Screenshot](http://i.imgur.com/ZhIUu6x.png)
