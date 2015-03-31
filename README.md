@@ -13,17 +13,17 @@ SPACE: pause song
 
 ARROW KEYS: modify menu
 
-, : lower volume
+,	: lower volume
 
-. : increase volume
+. 	: increase volume
 
-< : decrease speed
+< 	: decrease speed
 
-> : increase speed
+\> 	 : increase speed
 
-\[" : adjust balance to left ear
+\[   : adjust balance to left ear
 
-\] : adjust balance to right ear
+\]	 : adjust balance to right ear
 
 s : toggle shuffle
 
