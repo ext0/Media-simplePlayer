@@ -15,8 +15,8 @@ ARROW KEYS: modify menu
 . : increase volume
 < : decrease speed
 > : increase speed
-[ : adjust balance to left ear
-] : adjust balance to right ear
+\[ : adjust balance to left ear
+\] : adjust balance to right ear
 s : toggle shuffle
 
 ![Screenshot](http://i.imgur.com/ZhIUu6x.png)
